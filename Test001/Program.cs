@@ -34,7 +34,7 @@ namespace Test001
             LogManager.WriteLog("程序启动啦！");
             LogManager.WriteLog("用户登录成功！");
             Console.WriteLine("日志已写入！");
-            Console.WriteLine("请按任意键退出...");
+            Console.WriteLine("请按任意键退出啊...");
             Console.ReadKey();
         }
     }
